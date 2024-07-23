@@ -1,16 +1,18 @@
 # finder_app
 
-A new Flutter project.
+✅ 페이지
+- 처음 로딩 페이지 [ 로고 ]
+- 로그인 페이지 -> 회원가입 페이지
+- 채용공고 목록 페이지 -> 채용공고 상세 페이지 
+- 지원내역 페이지 
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+- ( + a 이력서 작성 페이지 ) 
+- ( + a 이력서 제출 )
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ ✅ bottomnavigationbar : 
+ - 로그인/로그아웃 
+ - 마이페이지
+ - 채용공고 
+ - 지원내역
